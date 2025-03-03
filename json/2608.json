@@ -1,0 +1,22 @@
+{
+  "name": "CryptoForex NFT #2608",
+  "description": "This is a membership token that gives you access to the Crypto forex space where information is shared. Holders also benefit from perks associated with the platform.",
+  "image": "REPLACE/2608.png",
+  "edition": 2608,
+  "date": 1741005381518,
+  "attributes": [
+    {
+      "trait_type": "crypto",
+      "value": "322"
+    },
+    {
+      "trait_type": "forex",
+      "value": "845"
+    },
+    {
+      "trait_type": "space",
+      "value": "562"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
