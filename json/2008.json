@@ -1,7 +1,7 @@
 {
   "name": "CryptoForex NFT #2008",
   "description": "This is a membership token that gives you access to the Crypto forex space where information is shared. Holders also benefit from perks associated with the platform.",
-  "image": "REPLACE/2008.png",
+  "image": "https://github.com/crypto-forex/metadata/blob/main/images/2008.png",
   "edition": 2008,
   "date": 1741005375367,
   "attributes": [
